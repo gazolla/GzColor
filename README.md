@@ -18,9 +18,9 @@ In order to use `GzColor`, you'll need to include the following code in your pro
     ...
     ...
     ...
-    self.view.backgroundColor = [GzColors colorFromHex:hexColor];
+    self.view.backgroundColor = [GzColors colorFromHex:IndianRed];
   	
-
+You can find the list of colors available at: http://en.wikipedia.org/wiki/Web_colors
  
 ##Credits & Contributors
 
