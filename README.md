@@ -32,7 +32,7 @@ You can find the list of colors available at: http://en.wikipedia.org/wiki/Web_c
   
 ##License
 
-`ColorPopover` is licensed under the MIT license, which is reproduced in its entirety here:
+`GzColor` is licensed under the MIT license, which is reproduced in its entirety here:
 
 
 >Copyright (c) 2012 Sebastian Gazolla Jr
