@@ -24,12 +24,9 @@ You can find the list of colors available at: http://en.wikipedia.org/wiki/Web_c
  
 ##Credits & Contributors
 
-`GzColor` was written by [Sebastian Gazolla Jr][1].
+`GzColor` was written by Sebastian Gazolla Jr.
 
-  [1]: http://gazapps.com
-Website: http://gazapps.com/  
-Google+: http://gplus.to/gazollajr  
-Twitter: http://twitter.com/gazollajr
+* [http://about.me/gazolla](http://about.me/gazolla)
 
   
 ##License
